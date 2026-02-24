@@ -1,0 +1,15 @@
+{
+  "name": "@specnative/sdx",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "sdx": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "SpecNative DevKit - utility for large scale spec native development"
+}
